@@ -3,3 +3,12 @@
     margin-left: 40px;
     list-style: none;
 }
+
+.section_div {
+    border: 2px solid;
+    margin: 10px;
+    padding: 30px;
+    padding-top: 20px;
+    box-shadow: 5px 5px 5px rgba(106, 107, 138, 0.712);
+    background-color: white;
+}
